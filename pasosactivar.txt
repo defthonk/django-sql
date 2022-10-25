@@ -1,0 +1,3 @@
+activar ambiente virtual(cd desktop, cd p, cd venv, cd scripts, activate, cd.., cd.., en la carpeta p, coloco python manage.py runserver)
+activar xammp (apache, mysql)
+correr servidor (python manage.py runserver)
